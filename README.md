@@ -2,7 +2,7 @@
 
  Olá, eu sou o Antônio! 👋
 
-Atuo a bastante tempo na área de TI, na área de infraestrutura e suporte, sou formado em Gestão da Tecnologia da Informação e curso atualmente MBA em Gestão Estratégica de Projetos e Metodologias Ágeis, além de cursos voltados a programação (Front End e Full Stack), atualmente estou buscando pela migração de carreira, para a área de programação, tenho como principal objetivo absorver o máximo de conhecimento e entregar o meu melhor desempenho, para assim  realizar a tão sonhada transição de carreira! 😄
+Atuo a bastante tempo na área de TI, na área de infraestrutura e suporte, sou formado em Gestão da Tecnologia da Informação e curso atualmente MBA em Gestão Estratégica de Projetos e Metodologias Ágeis, além de cursos voltados a programação (Front End e Full Stack). 😄
 
 
 Redes Sociais:
