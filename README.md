@@ -2,7 +2,7 @@
 
  Olá, eu sou o Antônio! 👋
 
-Atuo a bastante tempo na área de TI, na área de infraestrutura e suporte, sou formado em Gestão da Tecnologia da Informação e curso atualmente MBA em Gestão Estratégica de Projetos e Metodologias Ágeis, além de cursos voltados a programação (Front End e Full Stack). 😄
+Atuo a bastante tempo na área de TI, na área de infraestrutura, sou formado em Gestão da Tecnologia da Informação e curso atualmente MBA em Gestão Estratégica de Projetos e Metodologias Ágeis, além de cursos voltados a programação (Front End e Full Stack). 😄
 
 
 Redes Sociais:
