@@ -4,7 +4,7 @@
 
 💻 Aqui no meu perfil, você encontrará uma variedade de projetos que exploram a interseção entre o desenvolvimento de interfaces web, computação em nuvem e técnicas de inteligência artificial. Desde aplicativos web inovadores até soluções de machine learning baseadas na nuvem, estou constantemente buscando maneiras de integrar essas tecnologias para criar experiências digitais poderosas e inteligentes.
 
-🔧 Minha caixa de ferramentas inclui habilidades sólidas em HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js para o desenvolvimento front end, juntamente com experiência em plataformas de nuvem como AWS, Azure e Google Cloud Platform. Além disso, estou familiarizado com frameworks de inteligência artificial como TensorFlow, PyTorch e Scikit-learn, entre outros.
+🔧 Minha caixa de ferramentas inclui habilidades em HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js para o desenvolvimento front end, juntamente com experiência em plataformas de nuvem como AWS, Azure e Google Cloud Platform. Além disso, estou familiarizado com frameworks de inteligência artificial como TensorFlow, PyTorch e Scikit-learn, entre outros.
 
 📚 Além de criar interfaces responsivas e esteticamente agradáveis, tenho um interesse particular em explorar como a computação em nuvem e a inteligência artificial podem ser alavancadas para resolver problemas complexos e melhorar a experiência do usuário. Acredito firmemente que a combinação dessas tecnologias pode impulsionar a inovação e transformar a maneira como interagimos com a tecnologia.
 
